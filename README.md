@@ -1,12 +1,13 @@
-***
-Hi, I’m Joaquim Lobo, people call me Lobo, I am a computer engineering student at Escola Euperior de Tecnologia e Gestão de Oliveira do Hospital. 
+# Hey There
+
+I’m Joaquim Lobo, people call me Lobo, I am a computer engineering student at Escola Euperior de Tecnologia e Gestão de Oliveira do Hospital. 
 I am a tech enthusiast. Always open to collaborating on projects and innovative/disruptive ideas.
 
 Feel free to contact me: [JoaquimLobo][1]
 
-# Technologies
-***
-[![My Skills](https://skills.thijs.gg/icons?i=java,c,python)](https://skills.thijs.gg)
+# Technologies 
+
+[![My Skills](https://skills.thijs.gg/icons?i=java,c,python,html,css,js,php, mysql, git, linux)](https://skills.thijs.gg)
 
 
 
