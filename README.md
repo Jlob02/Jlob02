@@ -5,7 +5,7 @@ Feel free to contact me: [JoaquimLobo][1]
 
 
 
-[1]: www.linkedin.com/in/joaquim-lobo-a9b719234 "Linkedin"
+[1]: https://www.linkedin.com/in/joaquim-lobo-a9b719234 "Linkedin"
 
 
 <!---
