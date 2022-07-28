@@ -7,7 +7,7 @@ Feel free to contact me: [JoaquimLobo][1]
 
 # Technologies 
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,c,python,html,css,js,php, mysql, git)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,c,python,html,css,js,php,mysql,git)](https://skills.thijs.gg)
 
 
 
