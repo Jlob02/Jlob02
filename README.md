@@ -3,6 +3,8 @@ I am a tech enthusiast. Always open to collaborating on projects and innovative/
 
 Feel free to contact me: [JoaquimLobo][1]
 
+[![My Skills](https://skills.thijs.gg/icons?i=java,c,python)](https://skills.thijs.gg)
+
 
 
 [1]: https://www.linkedin.com/in/joaquim-lobo-a9b719234 "Linkedin"
